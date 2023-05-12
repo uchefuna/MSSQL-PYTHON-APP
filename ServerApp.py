@@ -3,6 +3,7 @@
 #  Creating Python apps using Microsoft SQL Server 2002 
 #  DEVELOPER EDITION on Windows
 
+
 import pyodbc as pyb
 import confiles as cof
 
